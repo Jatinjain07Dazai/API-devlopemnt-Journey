@@ -1,0 +1,1 @@
+This repo is dedicated to study and building of REST api and I hope i learn something from it.

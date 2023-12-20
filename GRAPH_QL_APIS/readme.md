@@ -1,0 +1,1 @@
+This repositary is dedicated to study and building of GRAPH_QL APIs. I hope i learn something.

@@ -1,0 +1,1 @@
+This repo is dedicated to studying and building websockets and i really hope i could build a real time videogames after being done with it.
